@@ -1,0 +1,19 @@
+{
+  "name": "alx-files_manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/muss001998/alx-files_manager.git"
+  },
+  "author": "muss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muss001998/alx-files_manager/issues"
+  },
+  "homepage": "https://github.com/muss001998/alx-files_manager#readme"
+}
